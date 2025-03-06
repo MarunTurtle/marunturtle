@@ -126,7 +126,7 @@
 - 발급기관: Google for Education
 
 ### 공인 영어시험
-- OPI: S등급 (2024.09.16)
+- OPI: Superior 등급 (2024.09.16)
 - OPIc: AL등급 (2024.03.13)
 - TOEFL: 110점 (2023.05.03)
 
