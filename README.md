@@ -99,7 +99,7 @@
 
 ## 🌟 대표 프로젝트 요약 
 
-### 1. [Dutymate (간호사 근무표 자동 생성 플랫폼)](https://github.com/MarunTurtle/dutymate)
+### 1. [Dutymate (간호사 근무표 자동 생성 플랫폼)](https://github.com/dutymate)
 
 - **프로젝트 소개**:
     - 개요: 수기로 작성되던 간호사 근무표의 비효율성과 불공정성을 해소하기 위한 자동화 플랫폼입니다. Simulated Annealing 알고리즘 기반 자동 생성 로직과 병동 관리 기능을 탑재하여 간호사들의 업무 스트레스를 줄이고 공정한 근무 환경 조성을 목표로 했습니다.
