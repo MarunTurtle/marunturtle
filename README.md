@@ -42,9 +42,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=spring,flask)](https://skillicons.dev)
 
-### 🗃️ 데이터베이스 - MongoDB, MySQL, SQLite
+### 🗃️ 데이터베이스 - MongoDB, MySQL
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### 🔄 버전 관리 및 협업 - Git, GitHub, Postman
 
